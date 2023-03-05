@@ -12,7 +12,7 @@ I learned about the different semantic elements and in which order to use them i
 
 Here is a screen shot of me using the nav element: ![alt screen shot of using nav](assets/images/Screenshot%202023-03-05%20152233.png)
 
-## Screen shots of redundant code we removed from css. 
+## Screen Shots Of Redundant Code We Removed From CSS. 
 This is what our style sheet looked like before:
 
 ![alt css before](assets/images/Redundant%20code%20.png)
