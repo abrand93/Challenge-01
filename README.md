@@ -25,6 +25,8 @@ This what it looks like now:
 
 ![alt css after](assets/images/CSS%20sheet%20cleaned%20up.png)
 
+Here is a link to the updated page:  https://abrand93.github.io/Challenge-01/
+
 
 ## Installation
 
